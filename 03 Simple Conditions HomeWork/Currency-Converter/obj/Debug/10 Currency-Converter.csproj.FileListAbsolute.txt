@@ -1,0 +1,9 @@
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\Currency-Converter\bin\Debug\Currency-Converter.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\Currency-Converter\bin\Debug\Currency-Converter.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\Currency-Converter\bin\Debug\Currency-Converter.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\Currency-Converter\obj\Debug\Currency_Converter.FormConverter.resources
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\Currency-Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\Currency-Converter\obj\Debug\10 Currency-Converter.csproj.GenerateResource.Cache
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\Currency-Converter\obj\Debug\Currency-Converter.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\Currency-Converter\obj\Debug\Currency-Converter.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\Currency-Converter\obj\Debug\10 Currency-Converter.csprojResolveAssemblyReference.cache

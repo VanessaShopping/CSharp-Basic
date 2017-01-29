@@ -1,0 +1,11 @@
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesClassWork\Rectangle\bin\Debug\Rectangle.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesClassWork\Rectangle\bin\Debug\Rectangle.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesClassWork\Rectangle\bin\Debug\Rectangle.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesClassWork\Rectangle\obj\Debug\Rectangle.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesClassWork\Rectangle\obj\Debug\Rectangle.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises ClassWork\Rectangle\bin\Debug\Rectangle.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises ClassWork\Rectangle\obj\Debug\Rectangle.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises ClassWork\Rectangle\obj\Debug\Rectangle.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises ClassWork\Rectangle\bin\Debug\Rectangle.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises ClassWork\Rectangle\bin\Debug\Rectangle.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises ClassWork\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache

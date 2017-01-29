@@ -1,0 +1,5 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\04. Perfect Girlfriend\bin\Debug\_04.Perfect_Girlfriend.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\04. Perfect Girlfriend\bin\Debug\_04.Perfect_Girlfriend.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\04. Perfect Girlfriend\bin\Debug\_04.Perfect_Girlfriend.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\04. Perfect Girlfriend\obj\Debug\_04.Perfect_Girlfriend.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\04. Perfect Girlfriend\obj\Debug\_04.Perfect_Girlfriend.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ThreeEqualNumbers\bin\Debug\ThreeEqualNumbers.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ThreeEqualNumbers\bin\Debug\ThreeEqualNumbers.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ThreeEqualNumbers\bin\Debug\ThreeEqualNumbers.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ThreeEqualNumbers\obj\Debug\ThreeEqualNumbers.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ThreeEqualNumbers\obj\Debug\ThreeEqualNumbers.pdb

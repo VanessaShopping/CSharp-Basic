@@ -1,0 +1,10 @@
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\Sequence2kPlus1\bin\Debug\Sequence2kPlus1.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\Sequence2kPlus1\bin\Debug\Sequence2kPlus1.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\Sequence2kPlus1\bin\Debug\Sequence2kPlus1.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\Sequence2kPlus1\obj\Debug\Sequence2kPlus1.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\Sequence2kPlus1\obj\Debug\Sequence2kPlus1.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\Sequence2kPlus1\bin\Debug\Sequence2kPlus1.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\Sequence2kPlus1\bin\Debug\Sequence2kPlus1.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\Sequence2kPlus1\bin\Debug\Sequence2kPlus1.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\Sequence2kPlus1\obj\Debug\Sequence2kPlus1.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\Sequence2kPlus1\obj\Debug\Sequence2kPlus1.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\TradeComissions\bin\Debug\TradeComissions.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\TradeComissions\bin\Debug\TradeComissions.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\TradeComissions\bin\Debug\TradeComissions.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\TradeComissions\obj\Debug\TradeComissions.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\TradeComissions\obj\Debug\TradeComissions.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\TradeComissions\bin\Debug\TradeComissions.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\TradeComissions\bin\Debug\TradeComissions.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\TradeComissions\bin\Debug\TradeComissions.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\TradeComissions\obj\Debug\TradeComissions.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\TradeComissions\obj\Debug\TradeComissions.pdb

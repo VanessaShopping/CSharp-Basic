@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

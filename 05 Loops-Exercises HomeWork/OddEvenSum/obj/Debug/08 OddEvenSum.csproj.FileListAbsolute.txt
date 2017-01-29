@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\OddEvenSum\bin\Debug\OddEvenSum.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\OddEvenSum\bin\Debug\OddEvenSum.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\OddEvenSum\obj\Debug\OddEvenSum.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\OddEvenSum\obj\Debug\OddEvenSum.pdb

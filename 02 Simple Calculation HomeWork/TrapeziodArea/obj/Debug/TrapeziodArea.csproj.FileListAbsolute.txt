@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\TrapeziodArea\bin\Debug\TrapeziodArea.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\TrapeziodArea\bin\Debug\TrapeziodArea.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\TrapeziodArea\bin\Debug\TrapeziodArea.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\TrapeziodArea\obj\Debug\TrapeziodArea.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\TrapeziodArea\obj\Debug\TrapeziodArea.pdb

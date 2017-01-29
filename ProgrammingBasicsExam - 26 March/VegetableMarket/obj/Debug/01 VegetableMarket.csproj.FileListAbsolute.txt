@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\VegetableMarket\bin\Debug\VegetableMarket.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\VegetableMarket\bin\Debug\VegetableMarket.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\VegetableMarket\bin\Debug\VegetableMarket.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\VegetableMarket\obj\Debug\VegetableMarket.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\VegetableMarket\obj\Debug\VegetableMarket.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\VegetableMarket\obj\Debug\01 VegetableMarket.csprojResolveAssemblyReference.cache

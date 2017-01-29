@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\LastKNumbersSums\bin\Debug\LastKNumbersSums.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\LastKNumbersSums\bin\Debug\LastKNumbersSums.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\LastKNumbersSums\bin\Debug\LastKNumbersSums.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\LastKNumbersSums\obj\Debug\04 LastKNumbersSums.csprojResolveAssemblyReference.cache
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\LastKNumbersSums\obj\Debug\LastKNumbersSums.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\LastKNumbersSums\obj\Debug\LastKNumbersSums.pdb

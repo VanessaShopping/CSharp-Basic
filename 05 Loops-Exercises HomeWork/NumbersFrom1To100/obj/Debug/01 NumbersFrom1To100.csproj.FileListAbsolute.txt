@@ -1,0 +1,6 @@
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\NumbersFrom1To100\bin\Debug\NumbersFrom1To100.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\NumbersFrom1To100\bin\Debug\NumbersFrom1To100.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\NumbersFrom1To100\bin\Debug\NumbersFrom1To100.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\NumbersFrom1To100\obj\Debug\NumbersFrom1To100.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\NumbersFrom1To100\obj\Debug\NumbersFrom1To100.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\NumbersFrom1To100\obj\Debug\01 NumbersFrom1To100.csprojResolveAssemblyReference.cache

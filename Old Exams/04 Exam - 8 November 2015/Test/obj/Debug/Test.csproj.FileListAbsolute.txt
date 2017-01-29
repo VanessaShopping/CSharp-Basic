@@ -1,0 +1,5 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\Test\bin\Debug\Test.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\Test\bin\Debug\Test.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\Test\bin\Debug\Test.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\Test\obj\Debug\Test.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\Test\obj\Debug\Test.pdb

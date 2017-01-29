@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\ConcatenateData\bin\Debug\ConcatenateData.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\ConcatenateData\bin\Debug\ConcatenateData.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\ConcatenateData\obj\Debug\ConcatenateData.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\ConcatenateData\obj\Debug\ConcatenateData.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\GreaterNumber\bin\Debug\GreaterNumber.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\GreaterNumber\bin\Debug\GreaterNumber.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\GreaterNumber\obj\Debug\GreaterNumber.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\GreaterNumber\obj\Debug\GreaterNumber.pdb

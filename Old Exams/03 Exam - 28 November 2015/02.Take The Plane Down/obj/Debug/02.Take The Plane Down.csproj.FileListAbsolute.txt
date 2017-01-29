@@ -1,0 +1,5 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\02.Take The Plane Down\bin\Debug\02.Take The Plane Down.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\02.Take The Plane Down\bin\Debug\02.Take The Plane Down.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\02.Take The Plane Down\bin\Debug\02.Take The Plane Down.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\02.Take The Plane Down\obj\Debug\02.Take The Plane Down.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\02.Take The Plane Down\obj\Debug\02.Take The Plane Down.pdb

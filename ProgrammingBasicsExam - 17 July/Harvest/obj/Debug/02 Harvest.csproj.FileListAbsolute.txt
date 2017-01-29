@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Harvest\bin\Debug\Harvest.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Harvest\bin\Debug\Harvest.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Harvest\bin\Debug\Harvest.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Harvest\obj\Debug\Harvest.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Harvest\obj\Debug\Harvest.pdb

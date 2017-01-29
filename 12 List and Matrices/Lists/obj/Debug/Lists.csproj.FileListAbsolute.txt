@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\Lists\bin\Debug\Lists.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\Lists\bin\Debug\Lists.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\Lists\bin\Debug\Lists.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\Lists\obj\Debug\Lists.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\Lists\obj\Debug\Lists.pdb

@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\TrippleSum\bin\Debug\TrippleSum.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\TrippleSum\bin\Debug\TrippleSum.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\TrippleSum\bin\Debug\TrippleSum.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\TrippleSum\obj\Debug\TrippleSum.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\TrippleSum\obj\Debug\TrippleSum.pdb

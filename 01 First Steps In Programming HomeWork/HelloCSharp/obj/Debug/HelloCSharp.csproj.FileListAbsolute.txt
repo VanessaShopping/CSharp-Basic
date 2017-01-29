@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\HelloCSharp\obj\Debug\HelloCSharp.pdb

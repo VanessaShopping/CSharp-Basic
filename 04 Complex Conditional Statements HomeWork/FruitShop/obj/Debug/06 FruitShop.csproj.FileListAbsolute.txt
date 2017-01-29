@@ -1,0 +1,10 @@
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\FruitShop\bin\Debug\FruitShop.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\FruitShop\bin\Debug\FruitShop.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\FruitShop\bin\Debug\FruitShop.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\FruitShop\obj\Debug\FruitShop.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\FruitShop\obj\Debug\FruitShop.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\FruitShop\bin\Debug\FruitShop.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\FruitShop\obj\Debug\FruitShop.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\FruitShop\obj\Debug\FruitShop.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\FruitShop\bin\Debug\FruitShop.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\FruitShop\bin\Debug\FruitShop.pdb

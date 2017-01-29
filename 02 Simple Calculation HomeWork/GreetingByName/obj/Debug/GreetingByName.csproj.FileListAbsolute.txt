@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\GreetingByName\bin\Debug\GreetingByName.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\GreetingByName\bin\Debug\GreetingByName.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\GreetingByName\bin\Debug\GreetingByName.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\GreetingByName\obj\Debug\GreetingByName.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\GreetingByName\obj\Debug\GreetingByName.pdb

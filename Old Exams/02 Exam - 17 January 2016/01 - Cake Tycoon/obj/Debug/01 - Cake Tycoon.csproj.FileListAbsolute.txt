@@ -1,0 +1,11 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17-January-2016\01 - Cake Tycoon\bin\Debug\01 - Cake Tycoon.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17-January-2016\01 - Cake Tycoon\bin\Debug\01 - Cake Tycoon.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17-January-2016\01 - Cake Tycoon\bin\Debug\01 - Cake Tycoon.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17-January-2016\01 - Cake Tycoon\obj\Debug\01 - Cake Tycoon.csprojResolveAssemblyReference.cache
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17-January-2016\01 - Cake Tycoon\obj\Debug\01 - Cake Tycoon.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17-January-2016\01 - Cake Tycoon\obj\Debug\01 - Cake Tycoon.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\01 - Cake Tycoon\bin\Debug\01 - Cake Tycoon.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\01 - Cake Tycoon\obj\Debug\01 - Cake Tycoon.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\01 - Cake Tycoon\obj\Debug\01 - Cake Tycoon.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\01 - Cake Tycoon\bin\Debug\01 - Cake Tycoon.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\01 - Cake Tycoon\bin\Debug\01 - Cake Tycoon.pdb

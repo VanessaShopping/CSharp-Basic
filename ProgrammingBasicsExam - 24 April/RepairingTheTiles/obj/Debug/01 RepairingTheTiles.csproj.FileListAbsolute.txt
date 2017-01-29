@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\RepairingTheTiles\bin\Debug\RepairingTheTiles.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\RepairingTheTiles\bin\Debug\RepairingTheTiles.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\RepairingTheTiles\bin\Debug\RepairingTheTiles.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\RepairingTheTiles\obj\Debug\RepairingTheTiles.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\RepairingTheTiles\obj\Debug\RepairingTheTiles.pdb

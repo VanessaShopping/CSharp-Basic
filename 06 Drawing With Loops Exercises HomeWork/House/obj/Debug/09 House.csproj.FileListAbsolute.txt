@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\House\bin\Debug\House.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\House\bin\Debug\House.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\House\bin\Debug\House.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\House\obj\Debug\House.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\House\obj\Debug\House.pdb

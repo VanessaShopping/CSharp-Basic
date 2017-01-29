@@ -1,0 +1,12 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17-January-2016\02 - Beer Stock\bin\Debug\02 - Beer Stock.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17-January-2016\02 - Beer Stock\bin\Debug\02 - Beer Stock.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17-January-2016\02 - Beer Stock\bin\Debug\02 - Beer Stock.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17-January-2016\02 - Beer Stock\obj\Debug\02 - Beer Stock.csprojResolveAssemblyReference.cache
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17-January-2016\02 - Beer Stock\obj\Debug\02 - Beer Stock.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17-January-2016\02 - Beer Stock\obj\Debug\02 - Beer Stock.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\02 - Beer Stock\bin\Debug\02 - Beer Stock.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\02 - Beer Stock\obj\Debug\02 - Beer Stock.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\02 - Beer Stock\obj\Debug\02 - Beer Stock.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\02 - Beer Stock\bin\Debug\02 - Beer Stock.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\02 - Beer Stock\bin\Debug\02 - Beer Stock.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\02 - Beer Stock\obj\Debug\02 - Beer Stock.csprojResolveAssemblyReference.cache

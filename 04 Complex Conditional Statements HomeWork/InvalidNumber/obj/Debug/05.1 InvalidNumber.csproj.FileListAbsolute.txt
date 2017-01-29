@@ -1,0 +1,10 @@
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\InvalidNumber\obj\Debug\InvalidNumber.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\InvalidNumber\obj\Debug\InvalidNumber.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\InvalidNumber\bin\Debug\InvalidNumber.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\InvalidNumber\bin\Debug\InvalidNumber.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\InvalidNumber\bin\Debug\InvalidNumber.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\InvalidNumber\bin\Debug\InvalidNumber.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\InvalidNumber\obj\Debug\InvalidNumber.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\InvalidNumber\obj\Debug\InvalidNumber.pdb

@@ -1,0 +1,6 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\04 - Passion Days\bin\Debug\04 - Passion Days.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\04 - Passion Days\bin\Debug\04 - Passion Days.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\04 - Passion Days\bin\Debug\04 - Passion Days.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\04 - Passion Days\obj\Debug\04 - Passion Days.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\04 - Passion Days\obj\Debug\04 - Passion Days.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\04 - Passion Days\obj\Debug\04 - Passion Days.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\03. Local Elections\bin\Debug\_03.Local_Elections.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\03. Local Elections\bin\Debug\_03.Local_Elections.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\03. Local Elections\bin\Debug\_03.Local_Elections.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\03. Local Elections\obj\Debug\_03.Local_Elections.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\03. Local Elections\obj\Debug\_03.Local_Elections.pdb

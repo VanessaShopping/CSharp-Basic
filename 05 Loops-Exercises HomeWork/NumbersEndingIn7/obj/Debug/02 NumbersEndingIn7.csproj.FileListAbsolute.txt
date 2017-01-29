@@ -1,0 +1,6 @@
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\NumbersEndingIn7\bin\Debug\NumbersEndingIn7.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\NumbersEndingIn7\bin\Debug\NumbersEndingIn7.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\NumbersEndingIn7\bin\Debug\NumbersEndingIn7.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\NumbersEndingIn7\obj\Debug\NumbersEndingIn7.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\NumbersEndingIn7\obj\Debug\NumbersEndingIn7.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\NumbersEndingIn7\obj\Debug\02 NumbersEndingIn7.csprojResolveAssemblyReference.cache

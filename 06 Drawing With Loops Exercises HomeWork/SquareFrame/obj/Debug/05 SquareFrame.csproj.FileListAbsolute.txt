@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\SquareFrame\bin\Debug\SquareFrame.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\SquareFrame\bin\Debug\SquareFrame.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\SquareFrame\bin\Debug\SquareFrame.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\SquareFrame\obj\Debug\SquareFrame.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\SquareFrame\obj\Debug\SquareFrame.pdb

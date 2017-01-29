@@ -1,0 +1,10 @@
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\SmallShop\bin\Debug\SmallShop.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\SmallShop\bin\Debug\SmallShop.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\SmallShop\bin\Debug\SmallShop.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\SmallShop\obj\Debug\SmallShop.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\SmallShop\obj\Debug\SmallShop.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\SmallShop\bin\Debug\SmallShop.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\SmallShop\bin\Debug\SmallShop.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\SmallShop\bin\Debug\SmallShop.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\SmallShop\obj\Debug\SmallShop.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\SmallShop\obj\Debug\SmallShop.pdb

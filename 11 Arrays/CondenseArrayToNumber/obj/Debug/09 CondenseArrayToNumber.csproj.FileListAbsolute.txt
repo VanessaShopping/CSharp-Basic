@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

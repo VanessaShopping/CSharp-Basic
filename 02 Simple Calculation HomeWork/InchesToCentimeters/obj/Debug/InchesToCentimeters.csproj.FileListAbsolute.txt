@@ -1,0 +1,6 @@
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\InchesToCentimeters\obj\Debug\InchesToCentimeters.csprojResolveAssemblyReference.cache

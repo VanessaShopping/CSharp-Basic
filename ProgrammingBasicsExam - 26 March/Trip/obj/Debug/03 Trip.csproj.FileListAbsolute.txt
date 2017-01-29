@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\Trip\bin\Debug\Trip.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\Trip\bin\Debug\Trip.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\Trip\bin\Debug\Trip.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\Trip\obj\Debug\03 Trip.csprojResolveAssemblyReference.cache
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\Trip\obj\Debug\Trip.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\Trip\obj\Debug\Trip.pdb

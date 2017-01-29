@@ -1,0 +1,3 @@
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\Expression\bin\Debug\Expression.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\Expression\obj\Debug\Expression.exe
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\Expression\obj\Debug\Expression.pdb

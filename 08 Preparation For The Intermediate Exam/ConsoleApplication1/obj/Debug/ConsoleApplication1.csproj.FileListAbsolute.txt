@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

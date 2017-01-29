@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\PerfectDiamond\bin\Debug\PerfectDiamond.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\PerfectDiamond\bin\Debug\PerfectDiamond.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\PerfectDiamond\bin\Debug\PerfectDiamond.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\PerfectDiamond\obj\Debug\PerfectDiamond.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\PerfectDiamond\obj\Debug\PerfectDiamond.pdb

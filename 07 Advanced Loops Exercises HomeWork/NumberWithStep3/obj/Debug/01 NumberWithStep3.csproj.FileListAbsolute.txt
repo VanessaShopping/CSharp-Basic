@@ -1,0 +1,10 @@
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumberWithStep3\bin\Debug\NumberWithStep3.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumberWithStep3\bin\Debug\NumberWithStep3.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumberWithStep3\bin\Debug\NumberWithStep3.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumberWithStep3\obj\Debug\NumberWithStep3.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumberWithStep3\obj\Debug\NumberWithStep3.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberWithStep3\bin\Debug\NumberWithStep3.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberWithStep3\obj\Debug\NumberWithStep3.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberWithStep3\obj\Debug\NumberWithStep3.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberWithStep3\bin\Debug\NumberWithStep3.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberWithStep3\bin\Debug\NumberWithStep3.pdb

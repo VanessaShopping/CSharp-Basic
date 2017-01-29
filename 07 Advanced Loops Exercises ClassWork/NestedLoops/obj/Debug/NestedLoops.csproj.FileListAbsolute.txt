@@ -1,0 +1,12 @@
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesClassWork\NestedLoops\bin\Debug\NestedLoops.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesClassWork\NestedLoops\bin\Debug\NestedLoops.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesClassWork\NestedLoops\bin\Debug\NestedLoops.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesClassWork\NestedLoops\obj\Debug\NestedLoops.csprojResolveAssemblyReference.cache
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesClassWork\NestedLoops\obj\Debug\NestedLoops.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesClassWork\NestedLoops\obj\Debug\NestedLoops.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\07 Advanced Loops Exercises ClassWork\NestedLoops\bin\Debug\NestedLoops.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\07 Advanced Loops Exercises ClassWork\NestedLoops\obj\Debug\NestedLoops.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\07 Advanced Loops Exercises ClassWork\NestedLoops\obj\Debug\NestedLoops.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\07 Advanced Loops Exercises ClassWork\NestedLoops\bin\Debug\NestedLoops.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\07 Advanced Loops Exercises ClassWork\NestedLoops\bin\Debug\NestedLoops.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\07 Advanced Loops Exercises ClassWork\NestedLoops\obj\Debug\NestedLoops.csprojResolveAssemblyReference.cache

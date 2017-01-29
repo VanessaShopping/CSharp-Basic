@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.pdb

@@ -1,0 +1,6 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\03. Christmas Tree\bin\Debug\_03.Christmas_Tree.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\03. Christmas Tree\bin\Debug\_03.Christmas_Tree.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\03. Christmas Tree\bin\Debug\_03.Christmas_Tree.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\03. Christmas Tree\obj\Debug\03. Christmas Tree.csprojResolveAssemblyReference.cache
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\03. Christmas Tree\obj\Debug\_03.Christmas_Tree.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\03. Christmas Tree\obj\Debug\_03.Christmas_Tree.pdb

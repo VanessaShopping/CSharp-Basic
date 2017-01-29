@@ -1,0 +1,11 @@
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\Sunglasses\bin\Debug\Sunglasses.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\Sunglasses\bin\Debug\Sunglasses.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\Sunglasses\bin\Debug\Sunglasses.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\Sunglasses\obj\Debug\Sunglasses.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\Sunglasses\obj\Debug\Sunglasses.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises HomeWork\Sunglasses\bin\Debug\Sunglasses.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises HomeWork\Sunglasses\obj\Debug\Sunglasses.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises HomeWork\Sunglasses\obj\Debug\Sunglasses.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises HomeWork\Sunglasses\bin\Debug\Sunglasses.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises HomeWork\Sunglasses\bin\Debug\Sunglasses.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises HomeWork\Sunglasses\obj\Debug\08 Sunglasses.csprojResolveAssemblyReference.cache

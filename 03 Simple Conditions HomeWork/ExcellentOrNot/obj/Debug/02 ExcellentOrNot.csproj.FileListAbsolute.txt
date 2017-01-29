@@ -1,0 +1,6 @@
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ExcellentOrNot\bin\Debug\ExcellentOrNot.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ExcellentOrNot\obj\Debug\ExcellentOrNot.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ExcellentOrNot\obj\Debug\ExcellentOrNot.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ExcellentOrNot\obj\Debug\02 ExcellentOrNot.csprojResolveAssemblyReference.cache

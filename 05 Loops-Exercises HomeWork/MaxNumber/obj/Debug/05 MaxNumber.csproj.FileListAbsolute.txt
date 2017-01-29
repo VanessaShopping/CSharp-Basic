@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\MaxNumber\bin\Debug\MaxNumber.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\MaxNumber\bin\Debug\MaxNumber.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\MaxNumber\bin\Debug\MaxNumber.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\MaxNumber\obj\Debug\MaxNumber.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\MaxNumber\obj\Debug\MaxNumber.pdb

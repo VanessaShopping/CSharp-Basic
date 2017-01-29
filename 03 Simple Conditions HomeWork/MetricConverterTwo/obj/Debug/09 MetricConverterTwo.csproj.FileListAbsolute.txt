@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\MetricConverterTwo\bin\Debug\MetricConverterTwo.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\MetricConverterTwo\bin\Debug\MetricConverterTwo.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\MetricConverterTwo\bin\Debug\MetricConverterTwo.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\MetricConverterTwo\obj\Debug\MetricConverterTwo.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\MetricConverterTwo\obj\Debug\MetricConverterTwo.pdb

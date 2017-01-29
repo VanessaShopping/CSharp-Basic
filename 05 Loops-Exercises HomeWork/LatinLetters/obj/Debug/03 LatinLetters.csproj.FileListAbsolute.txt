@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\LatinLetters\bin\Debug\LatinLetters.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\LatinLetters\bin\Debug\LatinLetters.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\LatinLetters\bin\Debug\LatinLetters.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\LatinLetters\obj\Debug\LatinLetters.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\LatinLetters\obj\Debug\LatinLetters.pdb

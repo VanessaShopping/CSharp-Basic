@@ -1,0 +1,8 @@
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\Rectangle10x10\bin\Debug\Rectangle10x10.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\Rectangle10x10\bin\Debug\Rectangle10x10.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\Rectangle10x10\bin\Debug\Rectangle10x10.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\Rectangle10x10\obj\Debug\Rectangle10x10.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\Rectangle10x10\obj\Debug\Rectangle10x10.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises HomeWork\Rectangle10x10\bin\Debug\Rectangle10x10.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises HomeWork\Rectangle10x10\obj\Debug\Rectangle10x10.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\06 Drawing With Loops Exercises HomeWork\Rectangle10x10\obj\Debug\Rectangle10x10.pdb

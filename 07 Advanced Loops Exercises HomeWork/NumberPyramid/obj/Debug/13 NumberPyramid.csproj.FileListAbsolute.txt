@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberPyramid\bin\Debug\NumberPyramid.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberPyramid\bin\Debug\NumberPyramid.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberPyramid\obj\Debug\NumberPyramid.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberPyramid\obj\Debug\NumberPyramid.pdb

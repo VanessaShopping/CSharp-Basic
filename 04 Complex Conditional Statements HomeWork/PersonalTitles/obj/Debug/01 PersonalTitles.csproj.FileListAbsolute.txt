@@ -1,0 +1,10 @@
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PersonalTitles\bin\Debug\PersonalTitles.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PersonalTitles\bin\Debug\PersonalTitles.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PersonalTitles\bin\Debug\PersonalTitles.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PersonalTitles\obj\Debug\PersonalTitles.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PersonalTitles\obj\Debug\PersonalTitles.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PersonalTitles\bin\Debug\PersonalTitles.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PersonalTitles\obj\Debug\PersonalTitles.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PersonalTitles\obj\Debug\PersonalTitles.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PersonalTitles\bin\Debug\PersonalTitles.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PersonalTitles\bin\Debug\PersonalTitles.pdb

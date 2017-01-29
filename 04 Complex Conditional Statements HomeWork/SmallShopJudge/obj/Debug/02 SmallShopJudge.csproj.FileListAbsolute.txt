@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\SmallShopJudge\bin\Debug\SmallShopJudge.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\SmallShopJudge\bin\Debug\SmallShopJudge.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\SmallShopJudge\bin\Debug\SmallShopJudge.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\SmallShopJudge\obj\Debug\SmallShopJudge.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\SmallShopJudge\obj\Debug\SmallShopJudge.pdb

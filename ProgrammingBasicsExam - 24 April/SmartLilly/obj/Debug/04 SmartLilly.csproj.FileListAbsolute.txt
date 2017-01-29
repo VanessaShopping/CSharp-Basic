@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\SmartLilly\bin\Debug\SmartLilly.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\SmartLilly\bin\Debug\SmartLilly.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\SmartLilly\bin\Debug\SmartLilly.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\SmartLilly\obj\Debug\SmartLilly.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\SmartLilly\obj\Debug\SmartLilly.pdb

@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\SumMinMaxFirstLastAverage\bin\Debug\SumMinMaxFirstLastAverage.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\SumMinMaxFirstLastAverage\bin\Debug\SumMinMaxFirstLastAverage.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\SumMinMaxFirstLastAverage\bin\Debug\SumMinMaxFirstLastAverage.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\SumMinMaxFirstLastAverage\obj\Debug\SumMinMaxFirstLastAverage.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\SumMinMaxFirstLastAverage\obj\Debug\SumMinMaxFirstLastAverage.pdb

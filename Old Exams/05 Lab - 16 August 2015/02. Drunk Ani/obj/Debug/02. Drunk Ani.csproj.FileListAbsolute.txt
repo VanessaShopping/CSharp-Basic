@@ -1,0 +1,6 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\02. Drunk Ani\bin\Debug\_02.Drunk_Ani.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\02. Drunk Ani\bin\Debug\_02.Drunk_Ani.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\02. Drunk Ani\bin\Debug\_02.Drunk_Ani.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\02. Drunk Ani\obj\Debug\02. Drunk Ani.csprojResolveAssemblyReference.cache
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\02. Drunk Ani\obj\Debug\_02.Drunk_Ani.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\02. Drunk Ani\obj\Debug\_02.Drunk_Ani.pdb

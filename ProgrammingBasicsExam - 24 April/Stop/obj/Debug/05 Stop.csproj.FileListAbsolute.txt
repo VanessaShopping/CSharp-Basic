@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\Stop\bin\Debug\Stop.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\Stop\bin\Debug\Stop.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\Stop\bin\Debug\Stop.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\Stop\obj\Debug\Stop.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 24 April\Stop\obj\Debug\Stop.pdb

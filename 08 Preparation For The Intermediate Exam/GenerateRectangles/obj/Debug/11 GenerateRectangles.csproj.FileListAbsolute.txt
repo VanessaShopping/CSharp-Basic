@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\GenerateRectangles\bin\Debug\GenerateRectangles.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\GenerateRectangles\bin\Debug\GenerateRectangles.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\GenerateRectangles\bin\Debug\GenerateRectangles.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\GenerateRectangles\obj\Debug\GenerateRectangles.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\GenerateRectangles\obj\Debug\GenerateRectangles.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\TriangleArea\bin\Debug\TriangleArea.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\TriangleArea\bin\Debug\TriangleArea.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\TriangleArea\bin\Debug\TriangleArea.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\TriangleArea\obj\Debug\TriangleArea.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\TriangleArea\obj\Debug\TriangleArea.pdb

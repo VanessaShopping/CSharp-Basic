@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\AppendLists\bin\Debug\AppendLists.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\AppendLists\bin\Debug\AppendLists.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\AppendLists\bin\Debug\AppendLists.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\AppendLists\obj\Debug\02 AppendLists.csprojResolveAssemblyReference.cache
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\AppendLists\obj\Debug\AppendLists.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\AppendLists\obj\Debug\AppendLists.pdb

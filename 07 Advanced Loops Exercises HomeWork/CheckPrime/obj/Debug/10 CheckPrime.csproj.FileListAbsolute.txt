@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\CheckPrime\bin\Debug\CheckPrime.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\CheckPrime\bin\Debug\CheckPrime.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\CheckPrime\bin\Debug\CheckPrime.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\CheckPrime\obj\Debug\CheckPrime.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\CheckPrime\obj\Debug\CheckPrime.pdb

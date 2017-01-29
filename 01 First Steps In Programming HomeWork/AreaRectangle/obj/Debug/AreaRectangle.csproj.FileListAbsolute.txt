@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\AreaRectangle\bin\Debug\AreaRectangle.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\AreaRectangle\bin\Debug\AreaRectangle.exe
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\AreaRectangle\bin\Debug\AreaRectangle.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\AreaRectangle\obj\Debug\AreaRectangle.exe
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\AreaRectangle\obj\Debug\AreaRectangle.pdb

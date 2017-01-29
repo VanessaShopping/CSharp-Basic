@@ -1,0 +1,10 @@
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInTheFigure\bin\Debug\PointInTheFigure.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInTheFigure\bin\Debug\PointInTheFigure.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInTheFigure\bin\Debug\PointInTheFigure.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInTheFigure\obj\Debug\PointInTheFigure.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInTheFigure\obj\Debug\PointInTheFigure.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointInTheFigure\bin\Debug\PointInTheFigure.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointInTheFigure\bin\Debug\PointInTheFigure.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointInTheFigure\bin\Debug\PointInTheFigure.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointInTheFigure\obj\Debug\PointInTheFigure.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointInTheFigure\obj\Debug\PointInTheFigure.pdb

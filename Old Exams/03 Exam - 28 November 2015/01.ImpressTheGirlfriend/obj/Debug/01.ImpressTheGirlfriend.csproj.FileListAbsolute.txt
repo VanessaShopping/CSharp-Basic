@@ -1,0 +1,6 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\01.ImpressTheGirlfriend\bin\Debug\01.ImpressTheGirlfriend.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\01.ImpressTheGirlfriend\bin\Debug\01.ImpressTheGirlfriend.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\01.ImpressTheGirlfriend\bin\Debug\01.ImpressTheGirlfriend.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\01.ImpressTheGirlfriend\obj\Debug\01.ImpressTheGirlfriend.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\01.ImpressTheGirlfriend\obj\Debug\01.ImpressTheGirlfriend.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\01.ImpressTheGirlfriend\obj\Debug\01.ImpressTheGirlfriend.csprojResolveAssemblyReference.cache

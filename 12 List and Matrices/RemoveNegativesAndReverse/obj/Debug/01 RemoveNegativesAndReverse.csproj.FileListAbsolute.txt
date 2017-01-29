@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\RemoveNegativesAndReverse\obj\Debug\01 RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.pdb

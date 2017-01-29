@@ -1,0 +1,5 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\01. BaiIvanAdventures\bin\Debug\_01.BaiIvanAdventures.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\01. BaiIvanAdventures\bin\Debug\_01.BaiIvanAdventures.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\01. BaiIvanAdventures\bin\Debug\_01.BaiIvanAdventures.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\01. BaiIvanAdventures\obj\Debug\_01.BaiIvanAdventures.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\01. BaiIvanAdventures\obj\Debug\_01.BaiIvanAdventures.pdb

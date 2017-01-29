@@ -1,0 +1,6 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\04. Phone Processes\bin\Debug\_04.Phone_Processes.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\04. Phone Processes\bin\Debug\_04.Phone_Processes.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\04. Phone Processes\bin\Debug\_04.Phone_Processes.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\04. Phone Processes\obj\Debug\04. Phone Processes.csprojResolveAssemblyReference.cache
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\04. Phone Processes\obj\Debug\_04.Phone_Processes.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\05 Lab - 16 August 2015\04. Phone Processes\obj\Debug\_04.Phone_Processes.pdb

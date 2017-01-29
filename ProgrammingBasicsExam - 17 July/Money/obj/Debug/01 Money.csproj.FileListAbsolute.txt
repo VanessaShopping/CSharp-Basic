@@ -1,0 +1,8 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Money\bin\Debug\Money.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Money\bin\Debug\Money.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Money\bin\Debug\Money.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Money\obj\Debug\Money.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Money\obj\Debug\Money.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\ProgrammingBasicsExam - 17 July\Money\bin\Debug\Money.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\ProgrammingBasicsExam - 17 July\Money\obj\Debug\Money.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\ProgrammingBasicsExam - 17 July\Money\obj\Debug\Money.pdb

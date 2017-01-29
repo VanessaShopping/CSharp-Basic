@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInTheFigureOtherVariant\bin\Debug\PointInTheFigureOtherVariant.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInTheFigureOtherVariant\bin\Debug\PointInTheFigureOtherVariant.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInTheFigureOtherVariant\bin\Debug\PointInTheFigureOtherVariant.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInTheFigureOtherVariant\obj\Debug\PointInTheFigureOtherVariant.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInTheFigureOtherVariant\obj\Debug\PointInTheFigureOtherVariant.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\SpeedInfo\bin\Debug\SpeedInfo.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\SpeedInfo\bin\Debug\SpeedInfo.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\SpeedInfo\obj\Debug\SpeedInfo.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\SpeedInfo\obj\Debug\SpeedInfo.pdb

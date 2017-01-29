@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Diamond\bin\Debug\Diamond.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Diamond\bin\Debug\Diamond.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Diamond\bin\Debug\Diamond.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Diamond\obj\Debug\Diamond.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\Diamond\obj\Debug\Diamond.pdb

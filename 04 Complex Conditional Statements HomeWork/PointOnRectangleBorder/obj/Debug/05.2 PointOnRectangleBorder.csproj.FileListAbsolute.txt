@@ -1,0 +1,10 @@
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb

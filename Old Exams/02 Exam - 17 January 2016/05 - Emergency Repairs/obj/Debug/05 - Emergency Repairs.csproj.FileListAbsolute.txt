@@ -1,0 +1,5 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\05 - Emergency Repairs\bin\Debug\05 - Emergency Repairs.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\05 - Emergency Repairs\bin\Debug\05 - Emergency Repairs.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\05 - Emergency Repairs\bin\Debug\05 - Emergency Repairs.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\05 - Emergency Repairs\obj\Debug\05 - Emergency Repairs.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\02 Exam - 17 January 2016\05 - Emergency Repairs\obj\Debug\05 - Emergency Repairs.pdb

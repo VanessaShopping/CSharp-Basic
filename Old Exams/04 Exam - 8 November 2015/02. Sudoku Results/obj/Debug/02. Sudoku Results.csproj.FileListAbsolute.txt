@@ -1,0 +1,5 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\02. Sudoku Results\bin\Debug\_02.Sudoku_Results.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\02. Sudoku Results\bin\Debug\_02.Sudoku_Results.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\02. Sudoku Results\bin\Debug\_02.Sudoku_Results.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\02. Sudoku Results\obj\Debug\_02.Sudoku_Results.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\02. Sudoku Results\obj\Debug\_02.Sudoku_Results.pdb

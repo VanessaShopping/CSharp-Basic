@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

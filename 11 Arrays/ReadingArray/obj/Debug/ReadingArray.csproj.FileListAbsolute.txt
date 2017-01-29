@@ -1,0 +1,8 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReadingArray\bin\Debug\ReadingArray.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReadingArray\bin\Debug\ReadingArray.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReadingArray\bin\Debug\ReadingArray.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReadingArray\obj\Debug\ReadingArray.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReadingArray\obj\Debug\ReadingArray.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\11 Arrays\ReadingArray\bin\Debug\ReadingArray.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\11 Arrays\ReadingArray\obj\Debug\ReadingArray.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\11 Arrays\ReadingArray\obj\Debug\ReadingArray.pdb

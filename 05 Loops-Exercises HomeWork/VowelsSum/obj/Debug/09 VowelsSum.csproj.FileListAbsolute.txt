@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\VowelsSum\bin\Debug\VowelsSum.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\VowelsSum\bin\Debug\VowelsSum.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\VowelsSum\bin\Debug\VowelsSum.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\VowelsSum\obj\Debug\VowelsSum.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\VowelsSum\obj\Debug\VowelsSum.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\Bricks\bin\Debug\Bricks.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\Bricks\bin\Debug\Bricks.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\Bricks\bin\Debug\Bricks.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\Bricks\obj\Debug\Bricks.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\Bricks\obj\Debug\Bricks.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\Bricks\obj\Debug\01 Bricks.csprojResolveAssemblyReference.cache

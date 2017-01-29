@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb

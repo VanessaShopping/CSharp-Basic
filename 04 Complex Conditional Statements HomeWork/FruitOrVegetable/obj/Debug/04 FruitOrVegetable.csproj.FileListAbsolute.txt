@@ -1,0 +1,10 @@
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\FruitOrVegetable\bin\Debug\FruitOrVegetable.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\FruitOrVegetable\obj\Debug\FruitOrVegetable.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\FruitOrVegetable\obj\Debug\FruitOrVegetable.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\FruitOrVegetable\bin\Debug\FruitOrVegetable.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\FruitOrVegetable\obj\Debug\FruitOrVegetable.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\FruitOrVegetable\obj\Debug\FruitOrVegetable.pdb

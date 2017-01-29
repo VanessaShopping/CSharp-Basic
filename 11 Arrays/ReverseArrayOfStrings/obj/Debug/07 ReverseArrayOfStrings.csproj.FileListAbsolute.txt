@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.pdb

@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\DayOfWeek\bin\Debug\DayOfWeek.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\DayOfWeek\bin\Debug\DayOfWeek.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\DayOfWeek\obj\Debug\DayOfWeek.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\DayOfWeek\obj\Debug\DayOfWeek.pdb

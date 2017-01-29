@@ -1,0 +1,8 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\BackToThePast\bin\Debug\BackToThePast.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\BackToThePast\bin\Debug\BackToThePast.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\BackToThePast\bin\Debug\BackToThePast.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\BackToThePast\obj\Debug\BackToThePast.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\BackToThePast\obj\Debug\BackToThePast.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\ProgrammingBasicsExam - 17 July\BackToThePast\bin\Debug\BackToThePast.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\ProgrammingBasicsExam - 17 July\BackToThePast\obj\Debug\BackToThePast.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\ProgrammingBasicsExam - 17 July\BackToThePast\obj\Debug\BackToThePast.pdb

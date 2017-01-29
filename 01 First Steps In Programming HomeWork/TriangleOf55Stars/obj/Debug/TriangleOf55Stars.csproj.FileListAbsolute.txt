@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

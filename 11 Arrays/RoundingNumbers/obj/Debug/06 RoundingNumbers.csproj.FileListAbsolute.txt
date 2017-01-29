@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\SquareOfStars\bin\Debug\SquareOfStars.exe
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\SquareOfStars\bin\Debug\SquareOfStars.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\SquareOfStars\obj\Debug\SquareOfStars.exe
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\SquareOfStars\obj\Debug\SquareOfStars.pdb

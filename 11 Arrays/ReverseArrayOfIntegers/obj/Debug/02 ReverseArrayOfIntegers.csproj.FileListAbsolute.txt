@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReverseArrayOfIntegers\bin\Debug\ReverseArrayOfIntegers.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReverseArrayOfIntegers\bin\Debug\ReverseArrayOfIntegers.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReverseArrayOfIntegers\bin\Debug\ReverseArrayOfIntegers.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReverseArrayOfIntegers\obj\Debug\02 ReverseArrayOfIntegers.csprojResolveAssemblyReference.cache
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReverseArrayOfIntegers\obj\Debug\ReverseArrayOfIntegers.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ReverseArrayOfIntegers\obj\Debug\ReverseArrayOfIntegers.pdb

@@ -1,0 +1,27 @@
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationClassWork\ConvertBGNToEUR\bin\Debug\ConvertBGNToEUR.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationClassWork\ConvertBGNToEUR\bin\Debug\ConvertBGNToEUR.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationClassWork\ConvertBGNToEUR\bin\Debug\ConvertBGNToEUR.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.csprojResolveAssemblyReference.cache
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.FormConvert.resources
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.Properties.Resources.resources
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.csproj.GenerateResource.Cache
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\bin\Debug\ConvertBGNToEUR.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\bin\Debug\ConvertBGNToEUR.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\bin\Debug\ConvertBGNToEUR.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.csprojResolveAssemblyReference.cache
+D:\_SoftUni\0 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.FormConvert.resources
+D:\_SoftUni\0 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.Properties.Resources.resources
+D:\_SoftUni\0 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.csproj.GenerateResource.Cache
+D:\_SoftUni\00 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\bin\Debug\ConvertBGNToEUR.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\bin\Debug\ConvertBGNToEUR.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\bin\Debug\ConvertBGNToEUR.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.csprojResolveAssemblyReference.cache
+D:\_SoftUni\00 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.FormConvert.resources
+D:\_SoftUni\00 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.Properties.Resources.resources
+D:\_SoftUni\00 Basic Level - Programming Basics\02 Simple Calculation ClassWork\ConvertBGNToEUR\obj\Debug\ConvertBGNToEUR.csproj.GenerateResource.Cache

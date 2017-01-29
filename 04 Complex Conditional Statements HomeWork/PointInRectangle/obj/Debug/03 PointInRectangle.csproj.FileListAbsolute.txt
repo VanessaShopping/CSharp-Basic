@@ -1,0 +1,10 @@
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInRectangle\bin\Debug\PointInRectangle.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInRectangle\bin\Debug\PointInRectangle.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInRectangle\bin\Debug\PointInRectangle.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInRectangle\obj\Debug\PointInRectangle.exe
+D:\SoftUni\0 Basic Level - Programming Basics\04 ComplexConditionalStatementsHomeWork\PointInRectangle\obj\Debug\PointInRectangle.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointInRectangle\bin\Debug\PointInRectangle.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointInRectangle\bin\Debug\PointInRectangle.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointInRectangle\bin\Debug\PointInRectangle.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointInRectangle\obj\Debug\PointInRectangle.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\PointInRectangle\obj\Debug\PointInRectangle.pdb

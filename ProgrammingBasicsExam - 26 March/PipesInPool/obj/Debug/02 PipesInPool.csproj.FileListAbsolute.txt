@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\PipesInPool\bin\Debug\PipesInPool.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\PipesInPool\bin\Debug\PipesInPool.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\PipesInPool\bin\Debug\PipesInPool.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\PipesInPool\obj\Debug\02 PipesInPool.csprojResolveAssemblyReference.cache
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\PipesInPool\obj\Debug\PipesInPool.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\PipesInPool\obj\Debug\PipesInPool.pdb

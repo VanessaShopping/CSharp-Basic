@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\OddEvenPosition\bin\Debug\OddEvenPosition.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\OddEvenPosition\bin\Debug\OddEvenPosition.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\OddEvenPosition\bin\Debug\OddEvenPosition.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\OddEvenPosition\obj\Debug\OddEvenPosition.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\OddEvenPosition\obj\Debug\OddEvenPosition.pdb

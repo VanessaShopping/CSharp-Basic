@@ -1,0 +1,17 @@
+D:\SoftUni\0 Basic Level - Programming Basics\Adder\Adder\bin\Debug\Adder.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\Adder\Adder\bin\Debug\Adder.exe
+D:\SoftUni\0 Basic Level - Programming Basics\Adder\Adder\bin\Debug\Adder.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\Adder\Adder\obj\Debug\Adder.Properties.Resources.resources
+D:\SoftUni\0 Basic Level - Programming Basics\Adder\Adder\obj\Debug\Adder.csproj.GenerateResource.Cache
+D:\SoftUni\0 Basic Level - Programming Basics\Adder\Adder\obj\Debug\Adder.exe
+D:\SoftUni\0 Basic Level - Programming Basics\Adder\Adder\obj\Debug\Adder.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\Adder\Adder\obj\Debug\Adder.FormCalculate.resources
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\Adder\Adder\bin\Debug\Adder.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\Adder\Adder\obj\Debug\Adder.exe
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\Adder\Adder\obj\Debug\Adder.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\Adder\Adder\bin\Debug\Adder.exe
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\Adder\Adder\bin\Debug\Adder.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\Adder\Adder\obj\Debug\Adder.csprojResolveAssemblyReference.cache
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\Adder\Adder\obj\Debug\Adder.FormCalculate.resources
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\Adder\Adder\obj\Debug\Adder.Properties.Resources.resources
+D:\SoftUni\0 Basic Level - Programming Basics\01 FirstStepsInProgramming HomeWork\Adder\Adder\obj\Debug\Adder.csproj.GenerateResource.Cache

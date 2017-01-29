@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.pdb

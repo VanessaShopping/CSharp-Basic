@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\DivisionWithoutResidue\bin\Debug\DivisionWithoutResidue.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\DivisionWithoutResidue\bin\Debug\DivisionWithoutResidue.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\DivisionWithoutResidue\bin\Debug\DivisionWithoutResidue.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\DivisionWithoutResidue\obj\Debug\04 DivisionWithoutResidue.csprojResolveAssemblyReference.cache
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\DivisionWithoutResidue\obj\Debug\DivisionWithoutResidue.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 26 March\DivisionWithoutResidue\obj\Debug\DivisionWithoutResidue.pdb

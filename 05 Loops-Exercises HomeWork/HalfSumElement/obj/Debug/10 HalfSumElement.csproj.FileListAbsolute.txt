@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\HalfSumElement\bin\Debug\HalfSumElement.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\HalfSumElement\bin\Debug\HalfSumElement.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\HalfSumElement\obj\Debug\HalfSumElement.exe
+D:\SoftUni\0 Basic Level - Programming Basics\5 Loops-ExercisesHomeWork\HalfSumElement\obj\Debug\HalfSumElement.pdb

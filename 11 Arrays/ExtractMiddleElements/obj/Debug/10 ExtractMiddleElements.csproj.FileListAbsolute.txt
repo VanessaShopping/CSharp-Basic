@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ExtractMiddleElements\bin\Debug\ExtractMiddleElements.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ExtractMiddleElements\bin\Debug\ExtractMiddleElements.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ExtractMiddleElements\bin\Debug\ExtractMiddleElements.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ExtractMiddleElements\obj\Debug\ExtractMiddleElements.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\ExtractMiddleElements\obj\Debug\ExtractMiddleElements.pdb

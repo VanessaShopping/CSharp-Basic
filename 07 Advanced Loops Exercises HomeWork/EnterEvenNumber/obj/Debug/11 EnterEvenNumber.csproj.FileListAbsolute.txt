@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb

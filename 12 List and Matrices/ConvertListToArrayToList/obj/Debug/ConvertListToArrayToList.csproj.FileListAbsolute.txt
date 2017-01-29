@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\ConvertListToArrayToList\bin\Debug\ConvertListToArrayToList.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\ConvertListToArrayToList\bin\Debug\ConvertListToArrayToList.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\ConvertListToArrayToList\bin\Debug\ConvertListToArrayToList.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\ConvertListToArrayToList\obj\Debug\ConvertListToArrayToList.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\ConvertListToArrayToList\obj\Debug\ConvertListToArrayToList.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\12 List and Matrices\ConvertListToArrayToList\obj\Debug\ConvertListToArrayToList.csprojResolveAssemblyReference.cache

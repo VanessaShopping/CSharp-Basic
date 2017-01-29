@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\USDtoBGN\bin\Debug\USDtoBGN.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\USDtoBGN\bin\Debug\USDtoBGN.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\USDtoBGN\obj\Debug\USDtoBGN.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\USDtoBGN\obj\Debug\USDtoBGN.pdb

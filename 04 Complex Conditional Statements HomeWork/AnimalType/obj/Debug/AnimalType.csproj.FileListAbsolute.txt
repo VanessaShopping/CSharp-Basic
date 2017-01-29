@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\AnimalType\bin\Debug\AnimalType.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\AnimalType\bin\Debug\AnimalType.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\AnimalType\bin\Debug\AnimalType.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\AnimalType\obj\Debug\AnimalType.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\04 Complex Conditional Statements HomeWork\AnimalType\obj\Debug\AnimalType.pdb

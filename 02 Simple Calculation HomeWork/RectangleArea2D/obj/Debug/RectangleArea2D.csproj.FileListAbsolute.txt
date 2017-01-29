@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\RectangleArea2D\bin\Debug\RectangleArea2D.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\RectangleArea2D\bin\Debug\RectangleArea2D.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\RectangleArea2D\bin\Debug\RectangleArea2D.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\RectangleArea2D\obj\Debug\RectangleArea2D.exe
+D:\SoftUni\0 Basic Level - Programming Basics\02 SimpleCalculationHomeWork\RectangleArea2D\obj\Debug\RectangleArea2D.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\AreaOfFigures\bin\Debug\AreaOfFigures.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\AreaOfFigures\obj\Debug\AreaOfFigures.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\AreaOfFigures\obj\Debug\AreaOfFigures.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ExcellentResult\bin\Debug\ExcellentResult.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ExcellentResult\bin\Debug\ExcellentResult.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ExcellentResult\bin\Debug\ExcellentResult.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ExcellentResult\obj\Debug\ExcellentResult.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\ExcellentResult\obj\Debug\ExcellentResult.pdb

@@ -1,0 +1,5 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\01. Prospect In Hospitality\bin\Debug\_01.Prospect_In_Hospitality.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\01. Prospect In Hospitality\bin\Debug\_01.Prospect_In_Hospitality.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\01. Prospect In Hospitality\bin\Debug\_01.Prospect_In_Hospitality.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\01. Prospect In Hospitality\obj\Debug\_01.Prospect_In_Hospitality.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\04 Exam - 8 November 2015\01. Prospect In Hospitality\obj\Debug\_01.Prospect_In_Hospitality.pdb

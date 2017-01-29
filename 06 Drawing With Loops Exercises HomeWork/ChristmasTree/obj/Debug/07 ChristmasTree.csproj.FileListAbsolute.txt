@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\ChristmasTree\bin\Debug\ChristmasTree.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\ChristmasTree\bin\Debug\ChristmasTree.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\ChristmasTree\obj\Debug\ChristmasTree.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\ChristmasTree\obj\Debug\ChristmasTree.pdb

@@ -1,0 +1,6 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\02 - Encoded Answers\bin\Debug\02 - Encoded Answers.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\02 - Encoded Answers\bin\Debug\02 - Encoded Answers.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\02 - Encoded Answers\bin\Debug\02 - Encoded Answers.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\02 - Encoded Answers\obj\Debug\02 - Encoded Answers.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\02 - Encoded Answers\obj\Debug\02 - Encoded Answers.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\02 - Encoded Answers\obj\Debug\02 - Encoded Answers.csprojResolveAssemblyReference.cache

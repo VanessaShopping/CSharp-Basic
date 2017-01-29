@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\Arrays\bin\Debug\Arrays.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\Arrays\obj\Debug\Arrays.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\Arrays\obj\Debug\Arrays.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache

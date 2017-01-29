@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 6 March\DrawFort\bin\Debug\DrawFort.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 6 March\DrawFort\bin\Debug\DrawFort.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 6 March\DrawFort\bin\Debug\DrawFort.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 6 March\DrawFort\obj\Debug\DrawFort.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 6 March\DrawFort\obj\Debug\DrawFort.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\SumDigits\bin\Debug\SumDigits.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\SumDigits\bin\Debug\SumDigits.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\SumDigits\bin\Debug\SumDigits.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\SumDigits\obj\Debug\SumDigits.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\SumDigits\obj\Debug\SumDigits.pdb

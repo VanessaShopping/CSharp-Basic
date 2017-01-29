@@ -1,0 +1,5 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\05 - Salt and Pepper\bin\Debug\05 - Salt and Pepper.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\05 - Salt and Pepper\bin\Debug\05 - Salt and Pepper.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\05 - Salt and Pepper\bin\Debug\05 - Salt and Pepper.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\05 - Salt and Pepper\obj\Debug\05 - Salt and Pepper.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\01 Exam - 21 February 2016\05 - Salt and Pepper\obj\Debug\05 - Salt and Pepper.pdb

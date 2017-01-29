@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\PointOnSegment\bin\Debug\PointOnSegment.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\PointOnSegment\bin\Debug\PointOnSegment.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\PointOnSegment\bin\Debug\PointOnSegment.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\PointOnSegment\obj\Debug\02 PointOnSegment.csprojResolveAssemblyReference.cache
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\PointOnSegment\obj\Debug\PointOnSegment.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\PointOnSegment\obj\Debug\PointOnSegment.pdb

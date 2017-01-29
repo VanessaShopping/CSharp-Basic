@@ -1,0 +1,6 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\11 Arrays\ArrayClassWork\bin\Debug\ArrayClassWork.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\11 Arrays\ArrayClassWork\bin\Debug\ArrayClassWork.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\11 Arrays\ArrayClassWork\bin\Debug\ArrayClassWork.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\11 Arrays\ArrayClassWork\obj\Debug\00 ArrayClassWork.csprojResolveAssemblyReference.cache
+D:\_SoftUni\00 Basic Level - Programming Basics\11 Arrays\ArrayClassWork\obj\Debug\ArrayClassWork.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\11 Arrays\ArrayClassWork\obj\Debug\ArrayClassWork.pdb

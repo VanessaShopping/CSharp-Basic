@@ -1,0 +1,6 @@
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\RectangleNxN\bin\Debug\RectangleNxN.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\RectangleNxN\bin\Debug\RectangleNxN.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\RectangleNxN\bin\Debug\RectangleNxN.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\RectangleNxN\obj\Debug\RectangleNxN.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\RectangleNxN\obj\Debug\RectangleNxN.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\RectangleNxN\obj\Debug\02 RectangleNxN.csprojResolveAssemblyReference.cache

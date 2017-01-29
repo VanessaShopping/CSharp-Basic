@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\StopNumber\bin\Debug\StopNumber.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\StopNumber\bin\Debug\StopNumber.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\StopNumber\bin\Debug\StopNumber.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\StopNumber\obj\Debug\StopNumber.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 17\StopNumber\obj\Debug\StopNumber.pdb

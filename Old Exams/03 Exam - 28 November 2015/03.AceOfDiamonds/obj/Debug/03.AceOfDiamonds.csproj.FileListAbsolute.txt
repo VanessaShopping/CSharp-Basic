@@ -1,0 +1,6 @@
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\03.AceOfDiamonds\bin\Debug\03.AceOfDiamonds.exe.config
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\03.AceOfDiamonds\bin\Debug\03.AceOfDiamonds.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\03.AceOfDiamonds\bin\Debug\03.AceOfDiamonds.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\03.AceOfDiamonds\obj\Debug\03.AceOfDiamonds.exe
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\03.AceOfDiamonds\obj\Debug\03.AceOfDiamonds.pdb
+D:\_SoftUni\00 Basic Level - Programming Basics\Old Exams\03 Exam - 28 November 2015\03.AceOfDiamonds\obj\Debug\03.AceOfDiamonds.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\IncreasingElements\bin\Debug\IncreasingElements.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\IncreasingElements\bin\Debug\IncreasingElements.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\IncreasingElements\bin\Debug\IncreasingElements.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\IncreasingElements\obj\Debug\IncreasingElements.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\IncreasingElements\obj\Debug\IncreasingElements.pdb

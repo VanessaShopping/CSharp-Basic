@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\NumberToText100\bin\Debug\NumberToText100.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\NumberToText100\bin\Debug\NumberToText100.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\NumberToText100\bin\Debug\NumberToText100.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\NumberToText100\obj\Debug\NumberToText100.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\NumberToText100\obj\Debug\NumberToText100.pdb

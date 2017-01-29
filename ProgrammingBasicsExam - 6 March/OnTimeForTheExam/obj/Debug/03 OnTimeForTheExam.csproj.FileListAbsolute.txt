@@ -1,0 +1,6 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 6 March\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 6 March\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 6 March\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 6 March\OnTimeForTheExam\obj\Debug\03 OnTimeForTheExam.csprojResolveAssemblyReference.cache
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 6 March\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\ProgrammingBasicsExam - 6 March\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.pdb

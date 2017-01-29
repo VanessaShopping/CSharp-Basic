@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\SumArrays\bin\Debug\SumArrays.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\SumArrays\bin\Debug\SumArrays.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\SumArrays\bin\Debug\SumArrays.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\SumArrays\obj\Debug\SumArrays.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\11 Arrays\SumArrays\obj\Debug\SumArrays.pdb

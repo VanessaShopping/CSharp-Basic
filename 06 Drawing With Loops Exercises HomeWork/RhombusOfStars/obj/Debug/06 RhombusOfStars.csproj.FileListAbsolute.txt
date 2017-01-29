@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+D:\SoftUni\0 Basic Level - Programming Basics\06 DrawingWithLoopsExercisesHomeWork\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

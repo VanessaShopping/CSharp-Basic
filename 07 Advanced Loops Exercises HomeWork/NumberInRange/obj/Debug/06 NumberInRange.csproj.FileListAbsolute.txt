@@ -1,0 +1,10 @@
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumberInRange\bin\Debug\NumberInRange.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumberInRange\bin\Debug\NumberInRange.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumberInRange\bin\Debug\NumberInRange.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumberInRange\obj\Debug\NumberInRange.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumberInRange\obj\Debug\NumberInRange.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberInRange\bin\Debug\NumberInRange.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberInRange\obj\Debug\NumberInRange.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberInRange\obj\Debug\NumberInRange.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberInRange\bin\Debug\NumberInRange.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumberInRange\bin\Debug\NumberInRange.pdb

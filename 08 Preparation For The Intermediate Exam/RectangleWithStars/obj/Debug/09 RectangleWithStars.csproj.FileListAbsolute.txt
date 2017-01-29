@@ -1,0 +1,5 @@
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\RectangleWithStars\bin\Debug\RectangleWithStars.exe.config
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\RectangleWithStars\bin\Debug\RectangleWithStars.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\RectangleWithStars\bin\Debug\RectangleWithStars.pdb
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\RectangleWithStars\obj\Debug\RectangleWithStars.exe
+D:\_SoftUni\0 Basic Level - Programming Basics\08 Preparation For The Intermediate Exam\RectangleWithStars\obj\Debug\RectangleWithStars.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumbersNToOne\bin\Debug\NumbersNToOne.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumbersNToOne\bin\Debug\NumbersNToOne.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumbersNToOne\bin\Debug\NumbersNToOne.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumbersNToOne\obj\Debug\NumbersNToOne.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 NestedLoopsExercisesHomeWork\NumbersNToOne\obj\Debug\NumbersNToOne.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumbersNToOne\bin\Debug\NumbersNToOne.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumbersNToOne\bin\Debug\NumbersNToOne.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumbersNToOne\bin\Debug\NumbersNToOne.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumbersNToOne\obj\Debug\NumbersNToOne.exe
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumbersNToOne\obj\Debug\NumbersNToOne.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\07 AdvancedLoopsExercisesHomeWork\NumbersNToOne\obj\Debug\02 NumbersNToOne.csprojResolveAssemblyReference.cache

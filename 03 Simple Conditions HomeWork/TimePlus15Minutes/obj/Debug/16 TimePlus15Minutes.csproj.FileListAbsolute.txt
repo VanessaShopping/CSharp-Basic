@@ -1,0 +1,5 @@
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe.config
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.pdb
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.exe
+D:\SoftUni\0 Basic Level - Programming Basics\03 SimpleConditionsHomeWork\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.pdb
